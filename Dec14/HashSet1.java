@@ -3,7 +3,7 @@ package Dec14;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class HashSet1 {
+ class HashSet9 {
     public static void main(String[] args) {
         HashSet<String> hs=new HashSet<String>();
         hs.add("s");
